@@ -30,6 +30,9 @@ gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 
+gem 'will_paginate', '3.1.5'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
@@ -54,7 +57,6 @@ group :development do
   gem 'bcrypt-ruby', :require => "bcrypt"
   gem 'mail_form'
   gem 'simple_form'
-  gem 'will_paginate', '~> 3.0'
 end
 
 

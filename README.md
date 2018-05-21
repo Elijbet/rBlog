@@ -1,24 +1,7 @@
-# README
+## [rBlog Udemy Project](https://www.udemy.com/learn-ruby-on-rails-building-projects/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+__not complete & needs hosting__
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
++ front page styling
++ controller namespace and routing
++ will_paginate
